@@ -43,7 +43,7 @@ s();
 cout << "the person finally stop laugh and staring at me with very sharp glaze,'alright...now what are you gonna do?,you already that we are in the middle of war' ";
 s();
 
-cout << "'atleast dont do anything dumb and reckless like other soldier";
+cout << "'atleast dont do anything dumb and reckless like other soldier, you are not like them right?";
 
 return 0;
 }
